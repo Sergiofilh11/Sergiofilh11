@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho na área de Quality Assurance
 - 🌱 Aprimorando conhecimento em QA e estudando Java
-- 📚 Cursando Sistemas de Informação (6/8)
+- 📚 Cursando Sistemas de Informação (7/8)
 ##
 <div align="center">
   <a href="https://github.com/Sergiofilh11">
