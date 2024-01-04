@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho na área de Quality Assurance
 - 🌱 Aprimorando conhecimento em QA e estudando Java/Spring Boot
-- 📚 Cursando Sistemas de Informação (8/8)
+- 📚 Bacharel em Sistemas de Informação
 ##
 <div align="center">
   <a href="https://github.com/Sergiofilh11">
