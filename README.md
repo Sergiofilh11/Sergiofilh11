@@ -1,12 +1,15 @@
 ## Olá, tudo bem? Eu sou o Sérgio Filho 🚀
 
-- 🔭 Hoje trabalho na área de Quality Assurance
+- 🔭 Quality Assurance Analyst
+  
 - 🌱 Aprimorando conhecimento em QA e estudando Java/Spring Boot
+  
 - 📚 Bacharel em Sistemas de Informação
+  
 ##
 <div align="center">
   <a href="https://github.com/Sergiofilh11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergiofilh11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergiofilh11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiofilh11&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
     
